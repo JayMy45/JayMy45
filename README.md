@@ -11,12 +11,9 @@
 - [x] `Ingenuity`
 
 ## 📬 How to reach me:
- <div>
- <a href="www.linkedin.com/in/jeremynmyers" target="_blank">
-          <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
- </a>  
- <div>
- `email`: jnmyers774@gmail.com
+`LinkedIn` www.linkedin.com/in/jeremynmyers
+
+`email` jnmyers774@gmail.com
 
 ## **Github Stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymy45&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=jaymy45&theme=dark&codeSTACKr)](https://git.io/streak-stats)
