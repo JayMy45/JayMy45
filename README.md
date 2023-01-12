@@ -4,18 +4,18 @@
 - [x] `Hard Working`
 - [x] `Curious`
 - [x] `Passion for Learning`
-- [x] `Grit`
-- [x] `Strong Team Player`
+- [x] `Troubleshooting`
+- [x] `Teamwork`
 - [x] `Self-Motivated`
 - [x] `Critical Thinker`
 - [x] `Ingenuity`
 
 ## 📬 How to reach me:
- 
+ <div>
  <a href="www.linkedin.com/in/jeremynmyers" target="_blank">
           <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-        </a>  
-        
+ </a>  
+ <div>
  `email`: jnmyers774@gmail.com
 
 ## **Github Stats**
