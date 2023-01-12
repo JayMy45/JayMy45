@@ -1,7 +1,5 @@
 # Hi, My Name is Jeremy [ ✌🏽 ]
-- 📬 How to reach me:
-  -  email: jnmyers774@gmail.com
-  -  LinkedIn: www.linkedin.com/in/jeremynmyers
+
 
 ## About Me
 - [x] Hard Working
@@ -12,6 +10,10 @@
 - [x] Self-Motivated
 - [x] Critical Thinker
 - [x] Ingenuity
+
+## 📬 How to reach me:
+  -  email: jnmyers774@gmail.com
+  -  LinkedIn: www.linkedin.com/in/jeremynmyers
 
 ## **GitHub Stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymy45&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=jaymy45&theme=dark&codeSTACKr)](https://git.io/streak-stats)
