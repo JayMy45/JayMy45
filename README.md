@@ -1,5 +1,5 @@
 # Hi, I'm Jeremy [ ✌🏽 ]
-
+ 
 ## About Me
 - [x] `Hard Working`
 - [x] `Curious`
