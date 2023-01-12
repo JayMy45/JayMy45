@@ -2,14 +2,14 @@
 
 
 ## About Me
-- [x] Hard Working
-- [x] Curious
-- [x] Passion for Learning
-- [x] Grit
-- [x] Strong Team Player
-- [x] Self-Motivated
-- [x] Critical Thinker
-- [x] Ingenuity
+- [x] `Hard Working`
+- [x] `Curious`
+- [x] `Passion for Learning`
+- [x] `Grit`
+- [x] `Strong Team Player`
+- [x] `Self-Motivated`
+- [x] `Critical Thinker`
+- [x] `Ingenuity`
 
 ## 📬 How to reach me:
   -  email: jnmyers774@gmail.com
