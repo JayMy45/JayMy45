@@ -1,4 +1,4 @@
-# Hi, My Name is Jeremy [ ✌🏽 ]
+# Hi, I'm Jeremy [ ✌🏽 ]
 
 ## About Me
 - [x] `Hard Working`
