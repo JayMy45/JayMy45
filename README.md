@@ -17,7 +17,6 @@
 
 ## **Github Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymy45&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaymy45&theme=dark&codeSTACKr)](https://git.io/streak-stats)
 
 ## **Skills**
