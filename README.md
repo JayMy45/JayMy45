@@ -16,7 +16,7 @@
 `email` jnmyers774@gmail.com
 
 ## **Github Stats**
-
+[![Jeremy's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=jaymy45&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jaymy45/github-readme-stats#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaymy45&theme=dark&codeSTACKr)](https://git.io/streak-stats)
 
 ## **Skills**
@@ -51,4 +51,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+light stat table
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jaymy45&show_icons=true&theme=transparent)
+
+
 -->
