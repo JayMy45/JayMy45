@@ -1,19 +1,22 @@
 # Hi, I'm Jeremy [ ✌🏽 ]
  
 ## About Me
-- [x] `Hard Working`
-- [x] `Curious`
-- [x] `Passion for Learning`
-- [x] `Troubleshooting`
-- [x] `Teamwork`
-- [x] `Self-Motivated`
-- [x] `Critical Thinker`
-- [x] `Ingenuity`
+
+|                       |                      |
+|-----------------------|----------------------|
+|  `Hard Working`  |  `Teamwork`     |
+|  `Curious`       |  `Self-Motivated` |
+|  `Passion for Learning` |  `Critical Thinker` |
+|  `Troubleshooting` |  `Ingenuity` |
+
+
 
 ## 📬 How to reach me:
 `LinkedIn` www.linkedin.com/in/jeremynmyers
 
 `email` jnmyers774@gmail.com
+
+`website` www.jeremynmyers.com
 
 ## **Github Stats**
 [![Jeremy's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=jaymy45&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jaymy45/github-readme-stats#gh-dark-mode-only)
